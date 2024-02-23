@@ -67,5 +67,5 @@ while True:
         instructions(100, 33)
 
     else:
-        print(option)
+        exit(100, 33)
         break
